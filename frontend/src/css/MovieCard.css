@@ -69,8 +69,10 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+/* Nếu bạn dùng .active như code cũ của bạn */
 .favorite-btn.active {
-  color: #ff4757;
+  color: #ff4757; /* Màu đỏ khi được chọn */
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .rating-select {
